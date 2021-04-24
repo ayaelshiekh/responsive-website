@@ -1,0 +1,239 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbackground{
+    background-color: white !important;
+
+}
+
+.navback{
+    background-color: white;
+
+}
+
+
+/* .bg-light {
+    background-color:white !important;} */
+
+ .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link,
+  .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active ,
+  .navbar-light .navbar-nav .nav-link:hover {
+        color:red;
+    }
+.navbar-light .navbar-nav .nav-link {
+        color: black
+    }
+   
+.navbar-brand img{
+    max-height: 52px;
+}
+ .collapse .navbar-collapse ,.navbar-nav li{
+    padding: 25px;
+}
+.btn {
+    
+   background-color: #fdc73e;
+   color: #ffffff;
+  border: none;
+}
+.btn:hover{
+    background-color:gray;
+}
+
+
+
+/*************************************************************/
+.imgcont{
+    background: url("img/2.jpg")  ;
+    background-size:100% auto;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+     height: 600px;
+     width: 100%; 
+}
+
+.mycolcont{
+    margin-top: 20%;
+ 
+
+}
+.imgcont h6{
+    color: #fdc73e;
+    font-weight: bold;
+}
+.imgcont h1 ,p{
+    color: #ffffff;
+    font-weight: bold;
+}
+.mybt{
+    width: 250px;
+  margin-top:15%; 
+   margin-right: 30px;
+   padding: 20px;
+   font-weight: bold;
+}
+.bt1{
+    background-color: rgb(183, 33, 33);
+}
+.bt2{
+    background-color: #fdc73e;
+}
+.bt3{
+    background-color: #ffffff;
+    color: black;
+}
+.firbtn{
+width: 30px;
+background-color: #fdc73e;}
+
+/*******************************************************************/
+.mycont span{
+    color: red;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.mycont h1{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+}
+.mycont #firpr{
+    font-weight: bold;
+    color: black
+
+}
+.mycont #scpr{
+    color: gray;
+}
+.mycont{
+
+padding-top: 132px;
+margin-bottom: 80px;
+}
+/****************************************************************************/
+.scnbtn{
+    
+    float: right;
+    background-color: #fdc73e !important;
+
+}
+.btngro{
+    margin: 30px;
+    background-color: #fdc73e !important;
+
+}
+.btngro:hover{
+    background-color: #fdc73e;
+    opacity: .8;
+
+}
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    border: 1px black solid;
+    margin: 0 auto;
+}
+
+.flex-item {
+    width: 100px;
+    height: 200px;
+    border: 1px black solid;
+    background: #369;
+}
+
+/*****************************************************************************/
+.mybtn{
+    background-color: rgb(185, 34, 34);
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.mybtn:hover{
+    background-color: rgb(183, 33, 33);
+    opacity: .9;
+
+}
+.thicont{
+    margin: 20px;
+}
+
+.section{
+padding: 30px;
+}
+.divlist{
+    padding: 20px;
+}
+.divlist h4{
+display: inline;
+}
+.mycol{
+    background-image: url("img/5.jpg");
+/*     background-size: cover;
+ */    margin: 20px;
+    height: 600px;
+    background-position: center bottom;
+}
+#divofcont{
+    padding-top: 30px;
+
+}
+.mycol h1,h5{
+    padding:10px 5px 0px 20px;
+   color: #ffffff;
+   font-weight: bold;
+
+}
+.featurediv{
+padding-top: 70px;
+}
+.feature-content{
+    display: inline-block;
+}
+.featurediv span{
+    display: inline;
+}
+.featurediv h6{
+    display: inline;
+}
+.contflu{
+    margin-top:40px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+     background-image: url("img/3.jpg"); 
+     background-position: center bottom;
+    height: 500px;
+    /* margin-left: 0px;
+    margin-right: 0px; */
+}
+.contflu h1{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+
+}
+.contflu hr{
+    margin: 0 auto 10px;
+}
+.contflu p{
+    text-align: center;
+
+    color: #ffffff;
+    margin: 0 0 15px;
+}
+.mybtnco{
+    background-color: rgb(196, 29, 29);
+}
+.uldiv ul{
+    list-style-type: none;
+
+color: black
+}
+.alink{
+    color: black;
+}
+.alink:hover{
+color: red;
+}
